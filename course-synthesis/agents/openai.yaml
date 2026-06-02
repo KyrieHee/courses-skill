@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程综合规划"
+  short_description: "整合各阶段产出为完整学习计划"
+  default_prompt: "Use $course-synthesis to synthesize my course artifacts into a complete study plan."

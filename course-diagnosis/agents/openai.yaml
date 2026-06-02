@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "课程诊断"
+  short_description: "判断起点、目标与薄弱环节"
+  default_prompt: "Use $course-diagnosis to diagnose my course baseline and choose the next study stages."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程复习"
+  short_description: "做知识梳理、回忆与间隔复习"
+  default_prompt: "Use $course-review to turn my recent course notes into an active review plan."

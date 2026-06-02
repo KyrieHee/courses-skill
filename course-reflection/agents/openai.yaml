@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程复盘"
+  short_description: "复盘学习周期并调整方法"
+  default_prompt: "Use $course-reflection to review my recent course learning cycle and improve my plan."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程练习"
+  short_description: "生成作业、训练与评分标准"
+  default_prompt: "Use $course-practice to generate targeted practice for my course topic."

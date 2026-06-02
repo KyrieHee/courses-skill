@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程错题本"
+  short_description: "分类错因、修复漏洞并安排回查"
+  default_prompt: "Use $course-mistake-notebook to analyze my wrong answers and create repair drills."

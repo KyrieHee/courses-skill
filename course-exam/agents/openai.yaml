@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程考试"
+  short_description: "制定测验、期中期末与大考备考"
+  default_prompt: "Use $course-exam to create an exam preparation plan for my course."

@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "课程学习总控"
+  short_description: "编排中小学与大学课程学习流程"
+  default_prompt: "Use $course-learning-orchestrator to build a full course learning plan for a learner."

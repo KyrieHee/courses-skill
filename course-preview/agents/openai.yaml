@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程预习"
+  short_description: "生成课前预习与导学问题"
+  default_prompt: "Use $course-preview to create a pre-class preview plan for my next lesson."
